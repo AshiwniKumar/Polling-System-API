@@ -42,8 +42,3 @@ CSV_Upload/
 ├── package-lock.json
 ├── package.json
 ├── README.md
-
-```
-## Youtube video link
-```
-https://www.youtube.com/watch?v=Eu60MG01hmo
